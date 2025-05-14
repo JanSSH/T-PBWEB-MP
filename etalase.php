@@ -16,7 +16,8 @@ include 'koneksi.php';
   <div class="container-fluid">
     <a class="navbar-brand" href="#">SyafiEcell</a>
     <a class="btn btn-outline-light" href="cart.php">Lihat Keranjang</a>
-    <a href="tambah_produk.php" class="btn btn-success">+ Tambah Produk</a>
+    <a class="btn btn-success" href="tambah_produk.php">+ Tambah Produk</a>
+    <a href="produk_admin.php" class="btn btn-warning">Admin Panel</a> <!-- Tambahan -->
   </div>
 </nav>
 
